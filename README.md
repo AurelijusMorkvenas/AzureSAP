@@ -1,23 +1,6 @@
 
-```markdown
 # AzureSAP: End-to-End Sales Analytics ETL Pipeline
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Table of Contents
-- [Overview](#overview)
-- [Objectives](#objectives)
-- [ETL Process](#etl-process)
-  - [Extract](#extract)
-  - [Transform](#transform)
-  - [Load and Analyze](#load-and-analyze)
-- [Folder Structure in Azure Data Lake](#folder-structure-in-azure-data-lake)
-- [Setup Instructions](#setup-instructions)
-  - [Prerequisites](#prerequisites)
-  - [Steps to Set Up](#steps-to-set-up)
-- [Tools and Technologies](#tools-and-technologies)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
 
 ## Overview
 
@@ -125,6 +108,4 @@ We welcome contributions to improve AzureSAP! Please follow these steps to contr
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
+This project is licensed under the MIT License. 

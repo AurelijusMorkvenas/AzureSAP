@@ -1,4 +1,3 @@
-Here are the recommended improvements for your `README.md` file. I have implemented the suggested changes:
 
 ```markdown
 # AzureSAP: End-to-End Sales Analytics ETL Pipeline
@@ -129,4 +128,3 @@ We welcome contributions to improve AzureSAP! Please follow these steps to contr
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-Would you like me to commit these changes to your repository?
